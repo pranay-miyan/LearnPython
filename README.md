@@ -1,1 +1,1 @@
-A python learning stage for alevel OCR gcse - https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home , this is the course
+A python learning stage for alevel OCR gcse - brocode eddition - https://www.youtube.com/watch?v=ix9cRaBkVe0&t=2104s
